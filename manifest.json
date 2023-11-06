@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Logic Loom Creations",
+  "description": "Dev Crafts",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Cover Orange:Journey",
+  "name": "Cover Oranges:Journey",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Cover Orange:Journey",
+  "short_name": "Cover Oranges:Journey",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Cover Orange:Journey",
+      "name": "Cover Oranges:Journey",
       "url": "",
       "description": ""
     }
